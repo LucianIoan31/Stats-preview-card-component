@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-html-and-css-stats-preview-card-component-8HPHZj4iRZ]
+- Live Site URL: [https://lucianioan31.github.io/Stats-preview-card-component/]
 
 ## My process
 
@@ -46,15 +46,13 @@ Users should be able to:
 - absolute/relative positioning
 - media queries
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 Finally find out why Frontend is giving me the desktop width to be 1444px and how to make it work. hahaha
 
 I learnt how to add an overlay to an image. Asked Chat GPT for that. (is there any other solution for this?)
 
-Is using Chat GPT when you don't remeber things a bad habbit? Please note that I use it not for an absolute solution but to induce me a way for the solution I want. 
+Is using Chat GPT when you don't remember things a bad habit? Please note that I use it not for an absolute solution but to induce me a way for the solution I want. 
 
 I feel like I am more confident in finding why my elements are not centering when I want them to be centered.
 
@@ -64,7 +62,7 @@ I would like to know in which order should I write CSS code.
 
 I should learn how to align little items. update: find a way to properly align those stats elements. 
 
-I am struggling with mobile version responsivness and aligning the items. 
+I am struggling with mobile version responsiveness and aligning the items. 
 
 I feel like mobile version code looks bad and ugly. 
 
@@ -75,7 +73,3 @@ I feel like mobile version code looks bad and ugly.
 ## Author
 
 - Frontend Mentor - [@LucianIoan31](https://www.frontendmentor.io/profile/LucianIoan31)
-
-
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
