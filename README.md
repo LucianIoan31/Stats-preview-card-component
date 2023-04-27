@@ -14,6 +14,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Aknowledgements]
 
 
 ## Overview
@@ -73,3 +74,7 @@ I feel like mobile version code looks bad and ugly.
 ## Author
 
 - Frontend Mentor - [@LucianIoan31](https://www.frontendmentor.io/profile/LucianIoan31)
+
+### Aknowledgements
+
+Update: I thank https://www.frontendmentor.io/profile/Hassiai and https://www.frontendmentor.io/profile/Cor-Ina for the feedback they gave me. 
