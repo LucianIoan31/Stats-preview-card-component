@@ -44,13 +44,11 @@
 
     </div>
 
-    <div class="image-container">
-
-      <img class="desktop-image" src="./images/image-header-desktop.jpg" alt="office team">
-      <div class="overlay-bg"></div>
-      <img class="mobile-image" src="./images/image-header-mobile.jpg" alt="office-team">
-
-    </div>
+    <picture>
+      <source media="(max-width: 545px)" srcset="./images/image-header-mobile.jpg">
+      <img src="./images/image-header-desktop.jpg" alt="Header Image">
+    </picture>
+    
   </main>
 
   <div class="attribution">
